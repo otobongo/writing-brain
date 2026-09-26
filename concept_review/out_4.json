@@ -1,0 +1,824 @@
+[
+ {
+  "group": "Process",
+  "name": "Aim low / small daily goals",
+  "hits": [
+   {
+    "vid": "Tgpx_04p2g8",
+    "t": 181,
+    "note": "Set a 15-minute timer for 250 words: one sentence a minute is easy",
+    "primary": false
+   },
+   {
+    "vid": "KSVv5SW2YU4",
+    "t": 607,
+    "note": "Drop word-count obsession; aim for two pages a day or just complete the session",
+    "primary": false
+   },
+   {
+    "vid": "KSVv5SW2YU4",
+    "t": 709,
+    "note": "Arithmetic: 10 words a minute in 25-minute sessions adds up to a book draft",
+    "primary": true
+   },
+   {
+    "vid": "KSVv5SW2YU4",
+    "t": 817,
+    "note": "Jordan Peterson's 'aim low': small attainable daily goals compound; unmet goals don't build habits",
+    "primary": true
+   }
+  ]
+ },
+ {
+  "group": "Reader",
+  "name": "Anthropologist exercise (mine community texts)",
+  "hits": [
+   {
+    "vid": "jmUlhEAS6GE",
+    "t": 1101,
+    "note": "Value-coded words like however, critical, enables; be an anthropologist of your field's language",
+    "primary": false
+   },
+   {
+    "vid": "qPb2659z8jQ",
+    "t": 1892,
+    "note": "Pick four or five popular pieces for your readers and mine them for in-group code words",
+    "primary": true
+   },
+   {
+    "vid": "OHfMQeZqo60",
+    "t": 842,
+    "note": "Examine language patterns shared by target readers; adjust register, no universal rules",
+    "primary": false
+   },
+   {
+    "vid": "VkXMlrvq29o",
+    "t": 1077,
+    "note": "Scan community cultural artifacts (e.g. HBR) for code words; Arthur's X-ray vision on audience",
+    "primary": true
+   }
+  ]
+ },
+ {
+  "group": "Reader",
+  "name": "Audience capture",
+  "hits": [
+   {
+    "vid": "4nIo92ALrd0",
+    "t": 1055,
+    "note": "Why 'obsess over readers' advice sounds like audience capture, a degraded slave-to-interests writing",
+    "primary": false
+   },
+   {
+    "vid": "4nIo92ALrd0",
+    "t": 1174,
+    "note": "Skip phase one (own thinking) and you get audience capture; skip phase two and nobody reads",
+    "primary": true
+   },
+   {
+    "vid": "IOCOw72YjZk",
+    "t": 1250,
+    "note": "Fiction's 'ignore readers' advice misapplied to nonfiction; fear of audience capture",
+    "primary": false
+   }
+  ]
+ },
+ {
+  "group": "Structure",
+  "name": "Bilbo moment / AAB examples",
+  "hits": [
+   {
+    "vid": "G-Sl0-PZv2Q",
+    "t": 2499,
+    "note": "Bilbo moment: like Gandalf, secure the reader's commitment with a comfortable start",
+    "primary": true
+   },
+   {
+    "vid": "G-Sl0-PZv2Q",
+    "t": 2618,
+    "note": "Bilbo effect: order examples simple to complex, literal to metaphorical, then build",
+    "primary": true
+   }
+  ]
+ },
+ {
+  "group": "Value",
+  "name": "Chapter titles as promises",
+  "hits": [
+   {
+    "vid": "CSkWxm3flEQ",
+    "t": 204,
+    "note": "Dan Koe's vague chapter titles; name each chapter as the promise of what reader learns",
+    "primary": true
+   },
+   {
+    "vid": "CSkWxm3flEQ",
+    "t": 432,
+    "note": "A chapter is a promise readers trade attention for; abstract titles break trust",
+    "primary": true
+   }
+  ]
+ },
+ {
+  "group": "Sentence",
+  "name": "Empty verbs",
+  "hits": [
+   {
+    "vid": "wXF_O741o6I",
+    "t": 582,
+    "note": "Passive puts focus on flabby 'be' verb; agent in subject, action in verb",
+    "primary": false
+   },
+   {
+    "vid": "iTZt1_eocUg",
+    "t": 256,
+    "note": "Nominalizing actions forces vague flabby verbs like undertaken, took place",
+    "primary": false
+   },
+   {
+    "vid": "LAmzkEyt60E",
+    "t": 631,
+    "note": "Empty verbs like 'resulted in' signal action hiding in a noun; restore it to the verb",
+    "primary": true
+   },
+   {
+    "vid": "LAmzkEyt60E",
+    "t": 1112,
+    "note": "Fix 'resulted in' by asking who does what; boyars disputing goes in subject",
+    "primary": true
+   },
+   {
+    "vid": "n1CrHXxcfbA",
+    "t": 1042,
+    "note": "Editing an empty verb: package points, then 'concluded' carries the action",
+    "primary": false
+   }
+  ]
+ },
+ {
+  "group": "Reader",
+  "name": "Expressionist vs rationalist / positivist",
+  "hits": [
+   {
+    "vid": "2ToJcKiQWBc",
+    "t": 467,
+    "note": "Expressionist framework assumes ideas valuable because expressed; rationalist values usefulness",
+    "primary": true
+   },
+   {
+    "vid": "2ToJcKiQWBc",
+    "t": 978,
+    "note": "Summing up in conclusions reflects positivist mentality that information alone is valuable",
+    "primary": false
+   }
+  ]
+ },
+ {
+  "group": "Value",
+  "name": "Hedges and boosters / certainty calibration",
+  "hits": [
+   {
+    "vid": "sHclRP3xJK8",
+    "t": 571,
+    "note": "Address critics before moving on; academic writing is criticized for too many hedges",
+    "primary": false
+   },
+   {
+    "vid": "sHclRP3xJK8",
+    "t": 643,
+    "note": "Adjust claim strength with hedges (sometimes, generally) or boosters (absolutely, certainly)",
+    "primary": true
+   },
+   {
+    "vid": "hWHB2noYItY",
+    "t": 733,
+    "note": "For conversation-sparking books avoid hedging; make the boldest case",
+    "primary": false
+   },
+   {
+    "vid": "CSkWxm3flEQ",
+    "t": 2005,
+    "note": "Balance: modulate claims with qualifiers, but don't be too hedgy either",
+    "primary": false
+   },
+   {
+    "vid": "jmUlhEAS6GE",
+    "t": 3720,
+    "note": "Hedges like perhaps, seems, could be modulate confidence; balance confident vs arrogant",
+    "primary": true
+   },
+   {
+    "vid": "jmUlhEAS6GE",
+    "t": 3818,
+    "note": "Too many hedges undermine you outside academia; too much confidence sounds arrogant",
+    "primary": false
+   },
+   {
+    "vid": "6HPNb0tiDNg",
+    "t": 1818,
+    "note": "Certainty check: scale from hedged to strident with well-calibrated in the middle",
+    "primary": false
+   },
+   {
+    "vid": "6HPNb0tiDNg",
+    "t": 1928,
+    "note": "Worked example of over-hedged vs calibrated sentence; fix by choosing verb and narrowing noun",
+    "primary": true
+   }
+  ]
+ },
+ {
+  "group": "Two phases",
+  "name": "Interference (writing vs reading patterns)",
+  "hits": [
+   {
+    "vid": "jmUlhEAS6GE",
+    "t": 1511,
+    "note": "Writing patterns vs reading patterns: how you think interferes with how readers process",
+    "primary": false
+   },
+   {
+    "vid": "jmUlhEAS6GE",
+    "t": 1591,
+    "note": "Interference frustrates readers; writer patterns like chronology and background up front; rewrite completely",
+    "primary": false
+   },
+   {
+    "vid": "jmUlhEAS6GE",
+    "t": 1794,
+    "note": "Exhaustive completeness overwhelms readers who just want an answer to a question",
+    "primary": false
+   },
+   {
+    "vid": "jmUlhEAS6GE",
+    "t": 4209,
+    "note": "Remove writer-focused language: background, chronology, thought process; match reader process",
+    "primary": false
+   },
+   {
+    "vid": "bBg7GyIfn0A",
+    "t": 258,
+    "note": "Writers use text to solve a problem, readers to find ideas; restaurant directions example",
+    "primary": true
+   },
+   {
+    "vid": "OHfMQeZqo60",
+    "t": 1117,
+    "note": "School writing habit creates reader problems called interference",
+    "primary": false
+   },
+   {
+    "vid": "OHfMQeZqo60",
+    "t": 1245,
+    "note": "Writer thinks with text, reader learns from it; conflict of functions creates interference",
+    "primary": false
+   },
+   {
+    "vid": "VkXMlrvq29o",
+    "t": 669,
+    "note": "Interference defined; readers say 'unclear'; you cannot line-edit a thinking draft into clarity",
+    "primary": true
+   },
+   {
+    "vid": "VrxufNaORhU",
+    "t": 0,
+    "note": "Interference is the number one problem of expert writing: generating vs interpreting patterns",
+    "primary": true
+   },
+   {
+    "vid": "VrxufNaORhU",
+    "t": 284,
+    "note": "Reader expectations are psychology not rules; readers are worst feedback source on drafts",
+    "primary": false
+   },
+   {
+    "vid": "VrxufNaORhU",
+    "t": 436,
+    "note": "Dense/unclear feedback names symptom not cause; readers want stability to instability",
+    "primary": false
+   },
+   {
+    "vid": "VrxufNaORhU",
+    "t": 1095,
+    "note": "Thinking draft is full of interference; fix with fractal index-and-discussion pattern",
+    "primary": false
+   },
+   {
+    "vid": "VrxufNaORhU",
+    "t": 1269,
+    "note": "Don't think about reading patterns while generating; reverse outline indexes for coherence",
+    "primary": false
+   },
+   {
+    "vid": "6HPNb0tiDNg",
+    "t": 802,
+    "note": "Ordering paragraphs as they occurred to you is a writing pattern, not a reading pattern",
+    "primary": false
+   }
+  ]
+ },
+ {
+  "group": "Sentence",
+  "name": "Intuition pump",
+  "hits": [
+   {
+    "vid": "qPb2659z8jQ",
+    "t": 1695,
+    "note": "Intuition pump vs example: puts reader in detective position; cockpit and casino metaphors",
+    "primary": true
+   }
+  ]
+ },
+ {
+  "group": "Process",
+  "name": "Lacan: Imaginary, Symbolic, Real",
+  "hits": [
+   {
+    "vid": "CXmMXFutuus",
+    "t": 336,
+    "note": "Lacan's three registers explained: Imaginary self-image, Symbolic masks, Real behind closed doors",
+    "primary": true
+   },
+   {
+    "vid": "CXmMXFutuus",
+    "t": 493,
+    "note": "Imaginary and Symbolic pile on the Real; writer's block is blocked jouissance; get out of the way",
+    "primary": true
+   }
+  ]
+ },
+ {
+  "group": "Process",
+  "name": "Placeholders while drafting",
+  "hits": [
+   {
+    "vid": "Tgpx_04p2g8",
+    "t": 181,
+    "note": "When stuck during timed writing, use placeholders instead of stopping",
+    "primary": false
+   },
+   {
+    "vid": "Tgpx_04p2g8",
+    "t": 554,
+    "note": "Placeholder phrases like 'the thing is' or 'what I'm trying to say is' to push through",
+    "primary": true
+   }
+  ]
+ },
+ {
+  "group": "Value",
+  "name": "Practical vs conceptual problems",
+  "hits": [
+   {
+    "vid": "CSkWxm3flEQ",
+    "t": 261,
+    "note": "Ideas as solutions: practical problems change actions, conceptual problems replace an old idea",
+    "primary": true
+   },
+   {
+    "vid": "CSkWxm3flEQ",
+    "t": 750,
+    "note": "Pinpoint reader pain; TOC as bridge shows actions for practical problem",
+    "primary": false
+   },
+   {
+    "vid": "CSkWxm3flEQ",
+    "t": 2137,
+    "note": "Dan Koe wrote an ideas book but sold it as practical problem-solving",
+    "primary": false
+   },
+   {
+    "vid": "jmUlhEAS6GE",
+    "t": 433,
+    "note": "Even in the world of ideas we solve conceptual problems: readers hit a wall of understanding",
+    "primary": false
+   },
+   {
+    "vid": "jmUlhEAS6GE",
+    "t": 584,
+    "note": "Practical problem changes behavior, conceptual problem changes thinking upstream of behavior",
+    "primary": true
+   },
+   {
+    "vid": "kiIGwqwc49Q",
+    "t": 1153,
+    "note": "Genre goals: better understanding or solving a practical problem by changing behavior",
+    "primary": false
+   },
+   {
+    "vid": "qPb2659z8jQ",
+    "t": 619,
+    "note": "Conceptual problem = misunderstanding; conceptual problems are upstream of practical ones (HBR example)",
+    "primary": true
+   },
+   {
+    "vid": "ePQoPNHZ7UY",
+    "t": 851,
+    "note": "Two kinds of solutions: practical gives actions, conceptual gives understanding",
+    "primary": false
+   }
+  ]
+ },
+ {
+  "group": "Value",
+  "name": "Purpose chain / table of contents as bridge",
+  "hits": [
+   {
+    "vid": "hWHB2noYItY",
+    "t": 778,
+    "note": "Build a bridge from where readers are: stories, examples, analogies, objections as stones",
+    "primary": false
+   },
+   {
+    "vid": "CSkWxm3flEQ",
+    "t": 204,
+    "note": "Chapter titles should promise what readers learn; vague TOC loses trust",
+    "primary": false
+   },
+   {
+    "vid": "CSkWxm3flEQ",
+    "t": 310,
+    "note": "Fill the table of contents with promises; turn vague titles into learning goals",
+    "primary": true
+   },
+   {
+    "vid": "CSkWxm3flEQ",
+    "t": 387,
+    "note": "Takeaways in the TOC let readers decide; a chapter solves a problem, not gives ideas",
+    "primary": false
+   },
+   {
+    "vid": "CSkWxm3flEQ",
+    "t": 750,
+    "note": "Purpose chain: goal, who must read it, their pain, TOC as bridge, then filter every idea",
+    "primary": true
+   },
+   {
+    "vid": "CSkWxm3flEQ",
+    "t": 1387,
+    "note": "Book has a table of contents, chapter needs a table of ideas; think in fractals",
+    "primary": false
+   },
+   {
+    "vid": "ED_LXx3Hzak",
+    "t": 1144,
+    "note": "Don't debate readers; bridge from what they care about to what you show them",
+    "primary": false
+   }
+  ]
+ },
+ {
+  "group": "Process",
+  "name": "Reading is food, not fuel",
+  "hits": [
+   {
+    "vid": "VkXMlrvq29o",
+    "t": 195,
+    "note": "Reading is food for hungry writing: read when you hit a wall, guided by a question",
+    "primary": true
+   }
+  ]
+ },
+ {
+  "group": "Academic",
+  "name": "Scholar vs researcher; organizing mind",
+  "hits": [
+   {
+    "vid": "JRyVJKj4z7E",
+    "t": 193,
+    "note": "Researcher vs scholar defined; scholars write lit review first; in a world of researchers be a scholar",
+    "primary": true
+   },
+   {
+    "vid": "JRyVJKj4z7E",
+    "t": 536,
+    "note": "Bibliographic lit review makes you a scholar before researcher",
+    "primary": false
+   },
+   {
+    "vid": "JRyVJKj4z7E",
+    "t": 640,
+    "note": "Lit review's key quality is an organizing mind: analyze, connect, set priorities",
+    "primary": true
+   }
+  ]
+ },
+ {
+  "group": "Sentence",
+  "name": "Since vs because; ', which' clauses; -ing reductions",
+  "hits": [
+   {
+    "vid": "LAmzkEyt60E",
+    "t": 582,
+    "note": "Move verb forward as nonfinite -ing clause to give prominence to first clause",
+    "primary": false
+   },
+   {
+    "vid": "LAmzkEyt60E",
+    "t": 1219,
+    "note": "Since vs because: since links backward to known information while keeping cause-effect",
+    "primary": true
+   },
+   {
+    "vid": "FcUtF0UdPsg",
+    "t": 644,
+    "note": "Comma-which non-restrictive clause is the structure for definitions",
+    "primary": false
+   },
+   {
+    "vid": "n1CrHXxcfbA",
+    "t": 586,
+    "note": "Comma-which clauses for definition, effect, interpretation; reduce them to -ing",
+    "primary": true
+   }
+  ]
+ },
+ {
+  "group": "Sentence",
+  "name": "Strategic repetition; don't vary for variety",
+  "hits": [
+   {
+    "vid": "_X0UERlwz7Y",
+    "t": 335,
+    "note": "Repeating the topic helps readers see the passage globally despite sentence-level advice",
+    "primary": false
+   },
+   {
+    "vid": "jmUlhEAS6GE",
+    "t": 2576,
+    "note": "Flow from organization; first trick keep subjects consistent; avoiding repetition is a myth",
+    "primary": true
+   },
+   {
+    "vid": "bBg7GyIfn0A",
+    "t": 740,
+    "note": "Editors tell you to vary, but repetition is the hack that makes essays easy to follow",
+    "primary": false
+   },
+   {
+    "vid": "IqPLeyTahLs",
+    "t": 348,
+    "note": "Topic concept goes against 'vary your sentences' advice",
+    "primary": true
+   },
+   {
+    "vid": "LAmzkEyt60E",
+    "t": 0,
+    "note": "Your writing is unclear because you vary structure to avoid sounding repetitive",
+    "primary": false
+   },
+   {
+    "vid": "LAmzkEyt60E",
+    "t": 785,
+    "note": "Strategic repetition applied to Romanov passage; noun phrases as suitcases",
+    "primary": true
+   },
+   {
+    "vid": "LAmzkEyt60E",
+    "t": 875,
+    "note": "Applying strategic repetition: carry tsars from previous sentence end to next start",
+    "primary": false
+   }
+  ]
+ },
+ {
+  "group": "Value",
+  "name": "Text as a stage / limit the cast",
+  "hits": [
+   {
+    "vid": "0-YMN4Z-H_0",
+    "t": 317,
+    "note": "Subject position is a spotlight; passive puts receiver in the spotlight",
+    "primary": false
+   },
+   {
+    "vid": "CSkWxm3flEQ",
+    "t": 1699,
+    "note": "Text as stage: paragraphs are scenes with 2-4 characters; subject is in spotlight; 'you' puts reader on stage",
+    "primary": true
+   },
+   {
+    "vid": "CSkWxm3flEQ",
+    "t": 1900,
+    "note": "Put the idea, e.g. the brain, in subject; 'you' as subject is rude",
+    "primary": false
+   },
+   {
+    "vid": "jmUlhEAS6GE",
+    "t": 2662,
+    "note": "Varying for variety makes readers work; only two or three characters on stage at once",
+    "primary": true
+   },
+   {
+    "vid": "jmUlhEAS6GE",
+    "t": 2899,
+    "note": "Random characters entering the stage; organize subjects around reader problems",
+    "primary": false
+   },
+   {
+    "vid": "bBg7GyIfn0A",
+    "t": 794,
+    "note": "Text as play: variation introduces too many characters; limit the cast",
+    "primary": false
+   },
+   {
+    "vid": "bBg7GyIfn0A",
+    "t": 950,
+    "note": "Subject is the spotlight; dog/cat sentences; consistent subject gives a point of view",
+    "primary": true
+   },
+   {
+    "vid": "iTZt1_eocUg",
+    "t": 124,
+    "note": "Characters center stage: subject position is like center stage or middle of the frame",
+    "primary": false
+   },
+   {
+    "vid": "LAmzkEyt60E",
+    "t": 316,
+    "note": "Passage has a clear cast of Romanovs; movie poster test for abstraction",
+    "primary": false
+   }
+  ]
+ },
+ {
+  "group": "Process",
+  "name": "Timed freewriting / non-editing",
+  "hits": [
+   {
+    "vid": "Tgpx_04p2g8",
+    "t": 144,
+    "note": "Separate writing from editing; practice non-editing: 15-minute timer, no backspacing",
+    "primary": true
+   },
+   {
+    "vid": "Tgpx_04p2g8",
+    "t": 267,
+    "note": "Block distractions; keep writing and editing distinct, save editing for later",
+    "primary": false
+   },
+   {
+    "vid": "Tgpx_04p2g8",
+    "t": 330,
+    "note": "Writing without editing lets ideas grow; stop being embarrassed by stupid ideas",
+    "primary": false
+   },
+   {
+    "vid": "Tgpx_04p2g8",
+    "t": 600,
+    "note": "Stuck? pretend you're speaking, timer, or switch to voice-to-text; don't force it",
+    "primary": false
+   },
+   {
+    "vid": "Tgpx_04p2g8",
+    "t": 877,
+    "note": "After the timer, summarize standout ideas; 10-15 minute focused freewrite on one idea",
+    "primary": false
+   },
+   {
+    "vid": "jmUlhEAS6GE",
+    "t": 2094,
+    "note": "Freewriting session discovers knowledge; reader draft then outlines reader problems",
+    "primary": false
+   },
+   {
+    "vid": "kiIGwqwc49Q",
+    "t": 372,
+    "note": "20-minute timer brain dump daily; morning pages with your question at the top",
+    "primary": true
+   },
+   {
+    "vid": "KSVv5SW2YU4",
+    "t": 607,
+    "note": "Focus on completing sessions; Seinfeld timer practice",
+    "primary": false
+   },
+   {
+    "vid": "KSVv5SW2YU4",
+    "t": 1242,
+    "note": "EFL fluency drill: set a timer and write anything, even 'I don't know what to write'",
+    "primary": false
+   },
+   {
+    "vid": "KSVv5SW2YU4",
+    "t": 2233,
+    "note": "Freewrite then hunt for strongest thoughts; revision is writing",
+    "primary": false
+   },
+   {
+    "vid": "VkXMlrvq29o",
+    "t": 400,
+    "note": "Morning brain dump with question at top and timer; drafts as excavation sites",
+    "primary": false
+   },
+   {
+    "vid": "VkXMlrvq29o",
+    "t": 537,
+    "note": "Step one timed brain dump; step two label each section",
+    "primary": false
+   },
+   {
+    "vid": "CXmMXFutuus",
+    "t": 1337,
+    "note": "Freewriting as pulling magma to surface; no pressure to be meaningful",
+    "primary": true
+   },
+   {
+    "vid": "CXmMXFutuus",
+    "t": 1499,
+    "note": "Magma cools into a shape you don't choose; freewriting isn't for anybody",
+    "primary": false
+   },
+   {
+    "vid": "CXmMXFutuus",
+    "t": 1673,
+    "note": "Can't sculpt magma; review freewriting later with random note resurfacing",
+    "primary": false
+   },
+   {
+    "vid": "CXmMXFutuus",
+    "t": 1797,
+    "note": "Freewriting makes the flow state reliable; 90% trash, 10% better than planned",
+    "primary": false
+   },
+   {
+    "vid": "IOCOw72YjZk",
+    "t": 991,
+    "note": "Artist phase: set a timer and write without direction; nobody will read it",
+    "primary": false
+   }
+  ]
+ },
+ {
+  "group": "Axioms",
+  "name": "Value = solving a reader's problem",
+  "hits": [
+   {
+    "vid": "G-Sl0-PZv2Q",
+    "t": 2129,
+    "note": "Clear, organized, persuasive but useless is useless",
+    "primary": false
+   },
+   {
+    "vid": "jmUlhEAS6GE",
+    "t": 514,
+    "note": "Value, value, value: ask who cares before clarity; clear and useless is useless",
+    "primary": true
+   },
+   {
+    "vid": "iTZt1_eocUg",
+    "t": 1644,
+    "note": "If readers cannot perceive a problem they cannot perceive value",
+    "primary": true
+   },
+   {
+    "vid": "IOCOw72YjZk",
+    "t": 1283,
+    "note": "Ignore-readers advice assumes self-expression; clear and useless is useless",
+    "primary": false
+   }
+  ]
+ },
+ {
+  "group": "Process",
+  "name": "Writing anorexia / don't cut early",
+  "hits": [
+   {
+    "vid": "KSVv5SW2YU4",
+    "t": 2059,
+    "note": "Concision advice too early is writing anorexia; cut only when you have plenty; artist then architect",
+    "primary": true
+   }
+  ]
+ },
+ {
+  "group": "Structure",
+  "name": "Zadie Smith's six-arrow rectangle",
+  "hits": [
+   {
+    "vid": "Jhchk10LlRk",
+    "t": 86,
+    "note": "Zadie Smith's Cambridge story: 'This is not an essay'; discovering the framework",
+    "primary": false
+   },
+   {
+    "vid": "Jhchk10LlRk",
+    "t": 188,
+    "note": "Impersonal essay explained, then the rectangle: six arrows, title in center, write 1 and 6 first",
+    "primary": true
+   },
+   {
+    "vid": "Jhchk10LlRk",
+    "t": 409,
+    "note": "Arrow three: devil's advocate, steel man opposition, acknowledge limits",
+    "primary": false
+   },
+   {
+    "vid": "Jhchk10LlRk",
+    "t": 530,
+    "note": "Rectangle removes every decision except the next; impersonal essay reaches general readers",
+    "primary": false
+   }
+  ]
+ }
+]

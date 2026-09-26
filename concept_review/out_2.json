@@ -1,0 +1,161 @@
+[
+  {"group": "Value", "name": "3V: Vow, Victim, Villain", "hits": [
+    {"vid": "MTWhCW33mAw", "t": 414, "note": "Test your pitch on strangers, freeze the line as subtitle; that promise is the vow", "primary": true},
+    {"vid": "MTWhCW33mAw", "t": 725, "note": "Second V is the victim: the specific person in pain; then pick a fight", "primary": true},
+    {"vid": "MTWhCW33mAw", "t": 831, "note": "Villain examples: writing slop, Bad Therapy; a named enemy makes the message magnetic", "primary": false},
+    {"vid": "MTWhCW33mAw", "t": 882, "note": "How to pick a villain: name what the reader already hates, call it out plainly", "primary": true}
+  ]},
+  {"group": "Compression", "name": "Affirmative over negative", "hits": [
+    {"vid": "nsa44tXal7A", "t": 980, "note": "Negatives force readers to reverse the sentence; translation list and compounded-negative example", "primary": true},
+    {"vid": "nsa44tXal7A", "t": 1139, "note": "Rewrites negative clauses positive; lists implicitly negative words; exception when warning is the point", "primary": true}
+  ]},
+  {"group": "Two phases", "name": "Briefed reader (Carnegie Mellon study)", "hits": [
+    {"vid": "6HPNb0tiDNg", "t": 223, "note": "You are always the briefed reader of your own draft, so you can't interpret it cold", "primary": true}
+  ]},
+  {"group": "Axioms", "name": "Change the reader's ideas, not express yours", "hits": [
+    {"vid": "OHfMQeZqo60", "t": 362, "note": "Teachers assess what's in your head; real readers care about their own ideas and problems", "primary": true}
+  ]},
+  {"group": "Value", "name": "Claim, evidence, warrant / point, reason, evidence", "hits": [
+    {"vid": "jmUlhEAS6GE", "t": 3863, "note": "Every idea has three parts: truth claim, evidence, and warrant explaining how evidence supports it", "primary": true},
+    {"vid": "iCaX5cZ6roo", "t": 622, "note": "Defines evidence the reader finds credible and warrant as logical bridge; climate example", "primary": true},
+    {"vid": "6HPNb0tiDNg", "t": 1183, "note": "Slotting ideas into point-evidence structure exposes logical gaps; Orwell and AI example", "primary": false}
+  ]},
+  {"group": "Sentence", "name": "Concrete language / stub your toe / ladder of abstraction", "hits": [
+    {"vid": "G-Sl0-PZv2Q", "t": 678, "note": "Ladder of abstraction: concrete images you can stub your toe on versus abstract ideas; Gatsby green light", "primary": true},
+    {"vid": "G-Sl0-PZv2Q", "t": 729, "note": "Balance ideas by moving up and down the ladder of abstraction", "primary": false},
+    {"vid": "qPb2659z8jQ", "t": 828, "note": "Ground every abstraction in something the reader could stub their toe on; vision brain is older", "primary": true}
+  ]},
+  {"group": "Reader", "name": "Enter the conversation politely", "hits": [
+    {"vid": "G-Sl0-PZv2Q", "t": 1053, "note": "To be accepted, take interest in prior work and show deference to the big names", "primary": false},
+    {"vid": "G-Sl0-PZv2Q", "t": 1089, "note": "Writing is entering a conversation; contribute to an ongoing problem with concern for reader", "primary": true},
+    {"vid": "jmUlhEAS6GE", "t": 2299, "note": "To use writing socially, modulate claims and show deference even when you disagree", "primary": true}
+  ]},
+  {"group": "Sentence", "name": "Four topic-progression patterns", "hits": [
+    {"vid": "cayUBPHB1HQ", "t": 413, "note": "Linking pattern: reader steps room to room, each clause picks up the previous comment", "primary": true},
+    {"vid": "cayUBPHB1HQ", "t": 624, "note": "Portland coffee passage shows the linking pattern going off the rails without a unifying topic", "primary": false},
+    {"vid": "cayUBPHB1HQ", "t": 961, "note": "Umbrella category on top lends coherence; pressed-leaves passage with the index clause missing", "primary": false},
+    {"vid": "cayUBPHB1HQ", "t": 1033, "note": "Missing index clause makes varied topics incoherent; adding the umbrella sentence snaps them into place", "primary": true},
+    {"vid": "cayUBPHB1HQ", "t": 1177, "note": "Theme preview: first comment sets up A, B, C, which successive clauses develop in order", "primary": true},
+    {"vid": "cayUBPHB1HQ", "t": 1299, "note": "Expand patterns to whole sections and nest them at different levels of resolution", "primary": false}
+  ]},
+  {"group": "Sentence", "name": "Jargon as membership card", "hits": [
+    {"vid": "G-Sl0-PZv2Q", "t": 304, "note": "'Prior' versus 'assumption', 'stochastic' versus 'random' signal community membership beyond information", "primary": true},
+    {"vid": "G-Sl0-PZv2Q", "t": 1023, "note": "Avoiding a group's insider lingo gets you excluded, however good your ideas", "primary": false},
+    {"vid": "IOCOw72YjZk", "t": 762, "note": "We code-switch to mark group membership; stochastic is a membership card, not a $50 word", "primary": true},
+    {"vid": "IOCOw72YjZk", "t": 860, "note": "Jargon for the right audience isn't bad writing; skilled writers switch registers", "primary": false}
+  ]},
+  {"group": "Reader", "name": "Joint attention / classic scene / blending", "hits": [
+    {"vid": "UqiEjaCiWmQ", "t": 164, "note": "Defines joint attention: two people attending to a blackbird share the same mental context", "primary": true},
+    {"vid": "UqiEjaCiWmQ", "t": 612, "note": "Anchor a complex situational network in the classic scene via blending; Jane Austen letter, exercise", "primary": true}
+  ]},
+  {"group": "Academic", "name": "Literature review: plot vs story, casting studies", "hits": [
+    {"vid": "rC2O0J5k2eM", "t": 34, "note": "Sets up the Avengers example: the plot is the on-screen sequence of events", "primary": false},
+    {"vid": "rC2O0J5k2eM", "t": 126, "note": "Story is bigger than plot; listing studies under headings is plot, not story", "primary": true},
+    {"vid": "rC2O0J5k2eM", "t": 292, "note": "Cast studies as primary characters, allies, adversaries; cut sources that don't contribute", "primary": true}
+  ]},
+  {"group": "Value", "name": "Martini glass / school essay", "hits": [
+    {"vid": "OHfMQeZqo60", "t": 52, "note": "Introduces the martini glass model: open wide with background, great for teachers, bad for readers", "primary": true},
+    {"vid": "OHfMQeZqo60", "t": 136, "note": "Template solves the teacher's grading problem; first flaw is imposing form top-down", "primary": true},
+    {"vid": "OHfMQeZqo60", "t": 215, "note": "Second flaw: readers scan for value in problems, martini glass signals continuity and stasis", "primary": true},
+    {"vid": "2ToJcKiQWBc", "t": 290, "note": "School's background-to-thesis, inverted triangle, and gap-to-niche introductions", "primary": false},
+    {"vid": "2ToJcKiQWBc", "t": 447, "note": "Inverted triangle is a pile of information; use common ground, problem, solution instead", "primary": false},
+    {"vid": "6HPNb0tiDNg", "t": 1519, "note": "Writers go general to specific then drop the reader; weave specifics back into the thread", "primary": false}
+  ]},
+  {"group": "Sentence", "name": "Old to new information flow", "hits": [
+    {"vid": "lvMkX6OX4dg", "t": 603, "note": "Defines old to new with aluminum example; sentences push off each other like a swimmer", "primary": true},
+    {"vid": "lvMkX6OX4dg", "t": 713, "note": "Begin sentences with old information, end with new, so readers experience flow", "primary": false},
+    {"vid": "_X0UERlwz7Y", "t": 557, "note": "Sentences as relay runners: old information first, new unanticipated information last", "primary": false},
+    {"vid": "MtbfC3gQNNE", "t": 316, "note": "Sentences with only old information are closed loops; only new information informs", "primary": false},
+    {"vid": "MtbfC3gQNNE", "t": 423, "note": "Understandable sentences blend new scores with familiar context; pair new with known", "primary": false},
+    {"vid": "MtbfC3gQNNE", "t": 583, "note": "Pen example: same information reordered so new ends set expectations for next sentences", "primary": true},
+    {"vid": "MtbfC3gQNNE", "t": 720, "note": "Readers expect familiar first; old to new creates clear focus and coherent discourse", "primary": true},
+    {"vid": "MtbfC3gQNNE", "t": 861, "note": "Bitcoin passage: spot where active sentences break old to new flow", "primary": false},
+    {"vid": "MtbfC3gQNNE", "t": 939, "note": "Passive voice exists to move old information into the subject position", "primary": false},
+    {"vid": "MtbfC3gQNNE", "t": 1040, "note": "German proverb: beginning and end shake hands; old to new is one tool among several", "primary": false},
+    {"vid": "iTZt1_eocUg", "t": 1446, "note": "Long phrases and new technical terms belong at sentence end; short subject first", "primary": false},
+    {"vid": "LAmzkEyt60E", "t": 631, "note": "Live edit: keeps successor at the sentence start to preserve old to new flow", "primary": false},
+    {"vid": "LAmzkEyt60E", "t": 1194, "note": "Connector 'because' forces old information to the end; rearranging clauses to fix it", "primary": false},
+    {"vid": "n1CrHXxcfbA", "t": 215, "note": "Second level of organization: familiar context at the start, emphasis-worthy new information in comment", "primary": false},
+    {"vid": "n1CrHXxcfbA", "t": 366, "note": "New information goes at the end because it controls the rest of the passage", "primary": false},
+    {"vid": "n1CrHXxcfbA", "t": 819, "note": "Truman edit: treat Truman as old information, move new information to sentence end", "primary": false},
+    {"vid": "n1CrHXxcfbA", "t": 1264, "note": "Organizing old to new with backward-linking context produces clean chains of reference", "primary": false},
+    {"vid": "n1CrHXxcfbA", "t": 1372, "note": "Summary: readers expect backward-linking context first, new complex information at the end", "primary": false},
+    {"vid": "cayUBPHB1HQ", "t": 180, "note": "Csikszentmihalyi passage: old information in topic position, new information in the comment", "primary": false},
+    {"vid": "cayUBPHB1HQ", "t": 1299, "note": "Old to new linking pattern nested inside a larger theme-preview section structure", "primary": false}
+  ]},
+  {"group": "Compression", "name": "Punctuation X-ray / minimalism (McCarthy)", "hits": [
+    {"vid": "qPb2659z8jQ", "t": 144, "note": "Look only at punctuation to see sentence construction; McCarthy cuts every unneeded mark, word, section", "primary": true},
+    {"vid": "nsa44tXal7A", "t": 284, "note": "Cut verbal static words; be ruthless paring down to achieve clarity through minimalism", "primary": false}
+  ]},
+  {"group": "Sentence", "name": "Relay race / baton / shaking hands (sentence handoff)", "hits": [
+    {"vid": "lvMkX6OX4dg", "t": 603, "note": "Sentences push off each other like a swimmer; each picks up where the last left off", "primary": false},
+    {"vid": "_X0UERlwz7Y", "t": 557, "note": "Sentences act like runners in a relay race, one picking up where the other left off", "primary": true},
+    {"vid": "MtbfC3gQNNE", "t": 1040, "note": "German proverb for flow: the beginning and end shake hands with each other", "primary": false},
+    {"vid": "IqPLeyTahLs", "t": 295, "note": "Sentence end lingers in memory; next sentence takes the baton; Sarah and mother example", "primary": true}
+  ]},
+  {"group": "Two phases", "name": "Reverse outline", "hits": [
+    {"vid": "VkXMlrvq29o", "t": 491, "note": "Write to think, then use the reverse outline to keep drafts from becoming spaghetti", "primary": true},
+    {"vid": "VkXMlrvq29o", "t": 581, "note": "Label each section after drafting; reverse outline is step two of the expert process", "primary": false},
+    {"vid": "VrxufNaORhU", "t": 1153, "note": "Skim test: highlight index positions and check they tell a coherent story", "primary": true},
+    {"vid": "VrxufNaORhU", "t": 1269, "note": "Draw section lines, mark each index, read only indexes; unlabeled parts are fluff", "primary": false}
+  ]},
+  {"group": "Sentence", "name": "Topic position and stress position", "hits": [
+    {"vid": "-mEdJPYahxo", "t": 527, "note": "Sentence end is prime real estate, a reason not to end on a preposition", "primary": false},
+    {"vid": "-mEdJPYahxo", "t": 648, "note": "Give the prime real estate at sentence end to what matters most; brief mention", "primary": false},
+    {"vid": "0-YMN4Z-H_0", "t": 228, "note": "Names the sentence end as the stress position; restaurant passive voice example", "primary": false},
+    {"vid": "0-YMN4Z-H_0", "t": 351, "note": "Award-show example: emphasis falls at the end; passive puts key word in stress position", "primary": true},
+    {"vid": "0-YMN4Z-H_0", "t": 906, "note": "Adverb at sentence end feels stronger; end words receive greater emphasis", "primary": false},
+    {"vid": "0-YMN4Z-H_0", "t": 963, "note": "To highlight an adverb or key idea, place it at the end in the stress position", "primary": false},
+    {"vid": "IqPLeyTahLs", "t": 390, "note": "Repetition in the topic position helps readers track; party conversation and camera analogies", "primary": false},
+    {"vid": "IqPLeyTahLs", "t": 801, "note": "Recap: emphasis-worthy information in stress position, main characters in topic position", "primary": false},
+    {"vid": "j1JRSan9CYg", "t": 100, "note": "Readers read left to right, so sentence start is the topic position; bees versus honey", "primary": true},
+    {"vid": "j1JRSan9CYg", "t": 347, "note": "Passive verb lets you move what clients care about into the topic position", "primary": false},
+    {"vid": "n1CrHXxcfbA", "t": 154, "note": "Defines topic as start through subject and comment as everything after it", "primary": false},
+    {"vid": "n1CrHXxcfbA", "t": 261, "note": "Familiar context at the start, new emphasis-worthy information at the end in the comment", "primary": false},
+    {"vid": "n1CrHXxcfbA", "t": 417, "note": "Comment position gets emphasis and controls interpretation; he calls it the index position", "primary": false},
+    {"vid": "n1CrHXxcfbA", "t": 1066, "note": "Overloaded subject details moved to the end of the sentence into the comment", "primary": false},
+    {"vid": "n1CrHXxcfbA", "t": 1155, "note": "Heavy information moved from topic position to the end where readers manage it", "primary": false},
+    {"vid": "n1CrHXxcfbA", "t": 1264, "note": "Backward-linking context in the topic position produces clean patterns of reference", "primary": false},
+    {"vid": "n1CrHXxcfbA", "t": 1337, "note": "Zoomed out: short subjects and topics all linking back to Truman or political issues", "primary": false},
+    {"vid": "n1CrHXxcfbA", "t": 1388, "note": "Summary of the two principles including familiar topics first, new information in comment", "primary": false},
+    {"vid": "cayUBPHB1HQ", "t": 120, "note": "Happiness passage contrast; topic as doorstep, comment as room the reader walks into", "primary": true}
+  ]},
+  {"group": "Reader", "name": "Two-player game / genre as functions", "hits": [
+    {"vid": "kiIGwqwc49Q", "t": 0, "note": "Writing is like chess or tennis: watch the other player's moves, treat it as two-player", "primary": false},
+    {"vid": "kiIGwqwc49Q", "t": 1028, "note": "Starbucks ordering as a genre: consistent functions, not templates; favorite-color question breaks it", "primary": true},
+    {"vid": "kiIGwqwc49Q", "t": 1369, "note": "Plan the piece as moves and reader responses, starting with a greeting function", "primary": false},
+    {"vid": "OHfMQeZqo60", "t": 582, "note": "Put ideas where readers expect them by reproducing your genre's language patterns", "primary": false},
+    {"vid": "OHfMQeZqo60", "t": 1245, "note": "Writer uses text to think, reader to learn; mismatch of functions creates interference", "primary": false}
+  ]},
+  {"group": "Reader", "name": "Uninformed, indifferent, resistant readers", "hits": [
+    {"vid": "bBg7GyIfn0A", "t": 650, "note": "Three reader types and what each needs: background, consequences, or acknowledging their position", "primary": true}
+  ]},
+  {"group": "Process", "name": "Virtuous procrastination", "hits": [
+    {"vid": "Tgpx_04p2g8", "t": 313, "note": "Separate producing from perfecting; editing often becomes virtuous procrastination", "primary": false},
+    {"vid": "KSVv5SW2YU4", "t": 1545, "note": "Cleaning and important-feeling work as guilt-free avoidance when writing terrifies you", "primary": true},
+    {"vid": "KSVv5SW2YU4", "t": 2339, "note": "Research counts as writing if it moves the project; otherwise it's avoidance", "primary": false}
+  ]},
+  {"group": "Process", "name": "Writer's block as fear", "hits": [
+    {"vid": "KSVv5SW2YU4", "t": 0, "note": "Resistance or writer's block called by its true name, fear; eight tips promised", "primary": true},
+    {"vid": "KSVv5SW2YU4", "t": 1914, "note": "Fear signals you're near the truth; ask what scares you and write toward it", "primary": true},
+    {"vid": "4nIo92ALrd0", "t": 1108, "note": "Blending the two writing phases and thinking of readers too soon causes block", "primary": false},
+    {"vid": "CXmMXFutuus", "t": 0, "note": "Writer's block as a sign of breakthrough; discipline made his year-long block worse", "primary": true},
+    {"vid": "CXmMXFutuus", "t": 646, "note": "Block is pent-up energy unable to reach your persona; the fix is getting out of the way", "primary": false},
+    {"vid": "CXmMXFutuus", "t": 729, "note": "Protective layers block creative energy; let yourself die for the work to live", "primary": false},
+    {"vid": "CXmMXFutuus", "t": 959, "note": "Elephant and rider: block means the elephant no longer wants your project", "primary": false},
+    {"vid": "IOCOw72YjZk", "t": 925, "note": "Writing from an outline often led him into writer's block; brief mention", "primary": false},
+    {"vid": "gaqIcDkTakA", "t": 0, "note": "Is writer's block a writing problem or missing someone to talk to?", "primary": false},
+    {"vid": "gaqIcDkTakA", "t": 1839, "note": "You never have writer's block when you're talking to somebody", "primary": false},
+    {"vid": "gaqIcDkTakA", "t": 1919, "note": "Knowing and liking your reader makes voice and block problems vanish", "primary": false}
+  ]},
+  {"group": "Process", "name": "Zettelkasten / fleeting, literature, permanent notes", "hits": [
+    {"vid": "VkXMlrvq29o", "t": 400, "note": "Daily fleeting note brain dump with a question on top; drafts as excavation sites", "primary": false},
+    {"vid": "_ribgj7VIGc", "t": 180, "note": "Fleeting notes folder captures sources from life, voice memos, and dreams", "primary": false},
+    {"vid": "_ribgj7VIGc", "t": 396, "note": "Fleeting note with auto timestamp ID catches experience without friction", "primary": false},
+    {"vid": "_ribgj7VIGc", "t": 492, "note": "Literature note is marginalia, a dialogue with the text, not highlights or summary", "primary": true},
+    {"vid": "_ribgj7VIGc", "t": 637, "note": "Permanent note is one atomic idea in your words, linked to source and another note", "primary": true},
+    {"vid": "_ribgj7VIGc", "t": 737, "note": "Three note types compared; permanent notes link into a web, IDs prevent orphans", "primary": true},
+    {"vid": "_ribgj7VIGc", "t": 830, "note": "Patterns emerge across permanent notes; Lacan and Deutsch link; names the Zettelkasten method", "primary": false},
+    {"vid": "_ribgj7VIGc", "t": 1403, "note": "Recap of the habit from fleeting to literature to permanent notes with AI navigation", "primary": false}
+  ]}
+]

@@ -1,0 +1,136 @@
+[
+  {"group": "AI", "name": "AI as read-only navigation layer", "hits": [
+    {"vid": "_ribgj7VIGc", "t": 1361, "note": "AI navigates his vault but never rewrites it; keeps the thinking yours, not the writing", "primary": true},
+    {"vid": "3kf9rRztJgA", "t": 1038, "note": "Uses AI only as a navigation layer over his notes, never for communicative writing", "primary": false}
+  ]},
+  {"group": "AI", "name": "AI cannot think / style is not a coat of paint", "hits": [
+    {"vid": "JRyVJKj4z7E", "t": 640, "note": "AI tools are language machines, not thinking machines; can't show an organizing mind or set priorities", "primary": true},
+    {"vid": "JGSA6Wbbaxo", "t": 302, "note": "AI blends every voice into homogeneous slop; hiding AI phrases is tricking readers, not writing", "primary": false},
+    {"vid": "3kf9rRztJgA", "t": 213, "note": "Workflow one: dressing up AI outputs as your own is polishing a turd; source of inauthenticity", "primary": true},
+    {"vid": "3kf9rRztJgA", "t": 527, "note": "Workflow two treats style as a coat of paint over messy substance; explains why that fails", "primary": true},
+    {"vid": "3kf9rRztJgA", "t": 893, "note": "AI's window on the world is a funhouse mirror; better prompts don't fix it", "primary": false}
+  ]},
+  {"group": "Two phases", "name": "Artist and architect", "hits": [
+    {"vid": "KSVv5SW2YU4", "t": 2122, "note": "Introduces shifting between artist (channel for ideas) and architect (sees how it hangs together)", "primary": true},
+    {"vid": "IOCOw72YjZk", "t": 1201, "note": "Begin as artist, revise as architect; the outline comes after or is inside the first draft", "primary": true},
+    {"vid": "IOCOw72YjZk", "t": 1386, "note": "Switching hats to architect means preparing text for readers; asks reader-focused questions", "primary": false}
+  ]},
+  {"group": "Sentence", "name": "Characters as subjects, actions as verbs", "hits": [
+    {"vid": "wXF_O741o6I", "t": 582, "note": "Passive voice and 'be' verbs suck life out; readers want characters in subjects, actions in verbs", "primary": true},
+    {"vid": "G-Sl0-PZv2Q", "t": 2004, "note": "Place specific actions in verbs, not nouns; verb is the heart of the sentence", "primary": false},
+    {"vid": "G-Sl0-PZv2Q", "t": 2884, "note": "Zombie nouns hide actions; fix by putting real characters as subjects and actions as verbs", "primary": false},
+    {"vid": "bBg7GyIfn0A", "t": 1264, "note": "Recap: clear characters in subject plus clear actions in verb make a core clause", "primary": false},
+    {"vid": "iTZt1_eocUg", "t": 124, "note": "Jack and the giant example; subject position is center stage, put main characters there", "primary": true},
+    {"vid": "iTZt1_eocUg", "t": 464, "note": "Revising nominalized sentence back to character-subject and action-verb for clarity", "primary": false},
+    {"vid": "iTZt1_eocUg", "t": 561, "note": "Flesh-and-blood subject makes sentence clearer; familiar nominalizations can act as characters", "primary": false},
+    {"vid": "LAmzkEyt60E", "t": 1112, "note": "Empty verb signals hidden action; ask 'who does what' and move the boyars into the subject", "primary": true},
+    {"vid": "n1CrHXxcfbA", "t": 215, "note": "Bees and honey rewrite shows characters and actions are variable; the principle stated", "primary": false},
+    {"vid": "n1CrHXxcfbA", "t": 1388, "note": "Summary of the two principles: characters in subject, actions in verb, old before new", "primary": false}
+  ]},
+  {"group": "Academic", "name": "Citations: simple syntax, personal language, present tense", "hits": [
+    {"vid": "kTl79dinMBM", "t": 4, "note": "Sets up three research-backed style tips from 30,000 high-impact articles; rulebooks hurt citations", "primary": false},
+    {"vid": "kTl79dinMBM", "t": 283, "note": "Fewer function words means simpler sentences; personal language in intro and abstract boosts citations", "primary": true},
+    {"vid": "kTl79dinMBM", "t": 593, "note": "Tense is not time; present tense makes your research feel current and gets cited more", "primary": true}
+  ]},
+  {"group": "Two phases", "name": "Coffee stain problem", "hits": [
+    {"vid": "bBg7GyIfn0A", "t": 0, "note": "Defines the coffee stain problem: your words trigger your memory, association not communication", "primary": true},
+    {"vid": "mQ02Vwg-Uuo", "t": 0, "note": "Previews the coffee stain problem as why clear-in-your-head ideas confuse readers", "primary": false},
+    {"vid": "mQ02Vwg-Uuo", "t": 109, "note": "Full thought experiment: stained page reminds you of the idea, means nothing to readers", "primary": true},
+    {"vid": "mQ02Vwg-Uuo", "t": 614, "note": "Links private structure (mother's phone number) to the coffee stain problem and metadiscourse", "primary": false}
+  ]},
+  {"group": "Structure", "name": "Conclusion: push off, end higher", "hits": [
+    {"vid": "2ToJcKiQWBc", "t": 1118, "note": "Conclusion shouldn't say 'told you so'; push off the solution into a broader discussion", "primary": true},
+    {"vid": "6HPNb0tiDNg", "t": 950, "note": "Transitions between sections round up the point and push off; sparing questions work", "primary": false},
+    {"vid": "6HPNb0tiDNg", "t": 1620, "note": "End of section links back up from level four to level five, the larger thesis question", "primary": true},
+    {"vid": "6HPNb0tiDNg", "t": 1771, "note": "Weave evidence back into the point, then push off to a more general level", "primary": false}
+  ]},
+  {"group": "Value", "name": "Condition + consequence; the 'so what?' test", "hits": [
+    {"vid": "jmUlhEAS6GE", "t": 4050, "note": "Step 25, the so-what test: link every piece of information to why the reader should care", "primary": true},
+    {"vid": "qPb2659z8jQ", "t": 619, "note": "HBR opening analyzed: destabilizing condition, then consequence, then solution; conceptual vs practical problems", "primary": false},
+    {"vid": "bBg7GyIfn0A", "t": 579, "note": "Squirrel example: opening must challenge the reader's belief so they can't shrug 'so what'", "primary": false},
+    {"vid": "ePQoPNHZ7UY", "t": 619, "note": "Three steps: state condition with 'but', pass it through so-what to get consequence, keep them close", "primary": true},
+    {"vid": "ePQoPNHZ7UY", "t": 892, "note": "Intro formula: status quo, then problem made of condition and consequence", "primary": false}
+  ]},
+  {"group": "Two phases", "name": "Directions to the restaurant", "hits": [
+    {"vid": "bBg7GyIfn0A", "t": 317, "note": "Restaurant analogy: writers describe their own route instead of the reader's; writing vs reading patterns", "primary": true},
+    {"vid": "VkXMlrvq29o", "t": 581, "note": "Skipping the reverse outline is like giving your friend your own route to the restaurant", "primary": false},
+    {"vid": "VrxufNaORhU", "t": 618, "note": "Writer's draft is like telling a friend the steps you took to reach the restaurant", "primary": true}
+  ]},
+  {"group": "Two phases", "name": "Door closed / door open", "hits": [
+    {"vid": "Tgpx_04p2g8", "t": 123, "note": "Write with the door closed for yourself, rewrite with it open for readers; keep them separate", "primary": true}
+  ]},
+  {"group": "Structure", "name": "Grice's maxims", "hits": [
+    {"vid": "CSkWxm3flEQ", "t": 1111, "note": "Readers assume ideas cohere and won't allow gaps; orphaned ideas in Dan Koe's book", "primary": false},
+    {"vid": "bBg7GyIfn0A", "t": 1199, "note": "Readers assume side-by-side items are related; fix with logical bridges and verbs for actions", "primary": true}
+  ]},
+  {"group": "Structure", "name": "Hit-and-run quotation", "hits": [
+    {"vid": "6HPNb0tiDNg", "t": 1487, "note": "Don't drop readers at the evidence; names the hit-and-run quotation from an academic writing book", "primary": true}
+  ]},
+  {"group": "Structure", "name": "Index and discussion (fractal)", "hits": [
+    {"vid": "CSkWxm3flEQ", "t": 1272, "note": "Context first, meaning second; every unit of discourse needs an index section at the start", "primary": false},
+    {"vid": "CSkWxm3flEQ", "t": 1353, "note": "Underline the main point, move it to the index; think in fractals; uneven U ends more general", "primary": true},
+    {"vid": "iTZt1_eocUg", "t": 2527, "note": "Index, discussion, wrap-up recur at every level from sentences to books; short then long", "primary": true},
+    {"vid": "n1CrHXxcfbA", "t": 445, "note": "Sentence-level index position: later topics link back to the emphasized information", "primary": false},
+    {"vid": "2ToJcKiQWBc", "t": 500, "note": "Index sets the context for interpretation; one to three sentences; readers see it intuitively", "primary": true},
+    {"vid": "2ToJcKiQWBc", "t": 732, "note": "Skim test: read only index positions and check they tell a coherent story", "primary": false},
+    {"vid": "VrxufNaORhU", "t": 1095, "note": "Index holds high-level concept, discussion pays it off; skim test as a reverse outline", "primary": false},
+    {"vid": "VrxufNaORhU", "t": 1327, "note": "Index positions are the major turns on the reader's route to the destination", "primary": false},
+    {"vid": "cayUBPHB1HQ", "t": 1033, "note": "Missing index clause makes a passage incoherent; adding an umbrella clause snaps it into place", "primary": false},
+    {"vid": "6HPNb0tiDNg", "t": 601, "note": "Point-last sections still need an index preview so the conclusion feels inevitable", "primary": false},
+    {"vid": "6HPNb0tiDNg", "t": 906, "note": "Extract each section's point and put it in the index position at the top", "primary": false},
+    {"vid": "6HPNb0tiDNg", "t": 1391, "note": "Index point must be falsifiable; then progress down through levels toward evidence", "primary": false}
+  ]},
+  {"group": "Sentence", "name": "Movie-poster test", "hits": [
+    {"vid": "LAmzkEyt60E", "t": 23, "note": "Ask who goes on the movie poster; Mary-pie sentences show the subject tells whose story it is", "primary": true},
+    {"vid": "LAmzkEyt60E", "t": 316, "note": "Applies the poster test to the Romanov passage: abstractions vs the real cast of characters", "primary": false}
+  ]},
+  {"group": "Value", "name": "Point sentence at the end of the introduction", "hits": [
+    {"vid": "bBg7GyIfn0A", "t": 448, "note": "Find the one sentence readers must accept and move it to the end of the introduction", "primary": true},
+    {"vid": "iTZt1_eocUg", "t": 2123, "note": "Readers expect the point at the end of the beginning; it should carry repeated key concepts", "primary": true},
+    {"vid": "6HPNb0tiDNg", "t": 503, "note": "Synthesize a crisp point sentence; place it point-first at end of intro, or point-last with preview", "primary": true},
+    {"vid": "6HPNb0tiDNg", "t": 1391, "note": "A point sentence in the index position must be something someone could disagree with", "primary": false}
+  ]},
+  {"group": "Structure", "name": "Private, contextual, textual structure (number series)", "hits": [
+    {"vid": "mQ02Vwg-Uuo", "t": 345, "note": "Three number series: primes, Fibonacci, mother's phone number; writing like you think is opaque", "primary": true},
+    {"vid": "mQ02Vwg-Uuo", "t": 614, "note": "Phone number was private structure; readers posit a pattern you didn't intend, causes metadiscourse", "primary": false},
+    {"vid": "mQ02Vwg-Uuo", "t": 729, "note": "Primes are contextual structure like genre; Fibonacci is textual structure readers see in the text", "primary": true}
+  ]},
+  {"group": "Sentence", "name": "Short subject, verb early (tunnel / locomotive)", "hits": [
+    {"vid": "lvMkX6OX4dg", "t": 42, "note": "Sets up the holding-your-breath-through-a-tunnel childhood game as the analogy", "primary": false},
+    {"vid": "lvMkX6OX4dg", "t": 102, "note": "Verb is the end of the tunnel; readers hold their breath until it arrives, so put it early", "primary": true},
+    {"vid": "G-Sl0-PZv2Q", "t": 91, "note": "Locomotive effect: 15 words between subject and verb strains memory; put both up front", "primary": true}
+  ]},
+  {"group": "Value", "name": "Six types of nonfiction books", "hits": [
+    {"vid": "hWHB2noYItY", "t": 286, "note": "The personal brand builder: 'I wrote the book on that'; start from the five W's", "primary": true},
+    {"vid": "hWHB2noYItY", "t": 653, "note": "The new authority: offers an alternative to the dominant view, readers buy copies to share", "primary": true},
+    {"vid": "hWHB2noYItY", "t": 1100, "note": "The lead getter: short actionable guide solving one urgent problem, positions you as expert", "primary": true},
+    {"vid": "hWHB2noYItY", "t": 1495, "note": "The booking agent: built for reach around a spreadable message, gets you invited to speak", "primary": false},
+    {"vid": "hWHB2noYItY", "t": 1859, "note": "The legacy book: capture your lessons for one person, not for virality or leads", "primary": false}
+  ]},
+  {"group": "Structure", "name": "Title: four intrigue / curiosity triggers", "hits": [
+    {"vid": "wXF_O741o6I", "t": 234, "note": "Headline is the first line; it must open curiosity loops; introduces four curiosity strategies", "primary": true},
+    {"vid": "2ToJcKiQWBc", "t": 84, "note": "Avoid cryptic inside-joke titles; design titles using psychology-of-intrigue research", "primary": true},
+    {"vid": "2ToJcKiQWBc", "t": 175, "note": "Title format: eye-catching hook plus three nouns matching the piece's key concepts", "primary": false}
+  ]},
+  {"group": "Compression", "name": "Understate the serious, overstate the light", "hits": [
+    {"vid": "G-Sl0-PZv2Q", "t": 2323, "note": "Orwell's windowpane: best writing doesn't draw attention to itself, especially with heavy subjects", "primary": false},
+    {"vid": "G-Sl0-PZv2Q", "t": 2420, "note": "Let the weight of a serious story do the work; understate serious, overstate light", "primary": true}
+  ]},
+  {"group": "Process", "name": "Wile E. Coyote rule", "hits": [
+    {"vid": "KSVv5SW2YU4", "t": 2011, "note": "Write your best idea down immediately, don't save it; forces you to find a better ending", "primary": true}
+  ]},
+  {"group": "Two phases", "name": "Writer's draft vs reader draft", "hits": [
+    {"vid": "Tgpx_04p2g8", "t": 144, "note": "Keep writing and rewriting separate; editing while producing is the trap", "primary": false},
+    {"vid": "jmUlhEAS6GE", "t": 1474, "note": "Two different systems: writing to sort your confusion vs presenting to readers; first draft is yours", "primary": true},
+    {"vid": "jmUlhEAS6GE", "t": 2029, "note": "Reader draft starts from the reader's problem and subproblems, not from the writer's discovery", "primary": false},
+    {"vid": "jmUlhEAS6GE", "t": 2094, "note": "Don't carry freewriting over; outline the reader's problems and position ideas as solutions", "primary": false},
+    {"vid": "kiIGwqwc49Q", "t": 505, "note": "First draft goes in a drawer; start a new reader's draft; strict distinction is liberating", "primary": true},
+    {"vid": "OHfMQeZqo60", "t": 475, "note": "Two functions of writing; phase one writing for yourself is valid but self-contained", "primary": false},
+    {"vid": "OHfMQeZqo60", "t": 611, "note": "Use writing as thinking first, then write a new reader-focused draft", "primary": false},
+    {"vid": "OHfMQeZqo60", "t": 1275, "note": "Interference: school never taught separating the two functions, which conflict in expert writing", "primary": false},
+    {"vid": "VkXMlrvq29o", "t": 729, "note": "Reader complaints describe friction between thinking and reading patterns; you cannot line-edit a writer's draft", "primary": true},
+    {"vid": "4nIo92ALrd0", "t": 1108, "note": "Phase one is thinking, phase two positions ideas for readers; mixing them causes paralysis", "primary": false},
+    {"vid": "VrxufNaORhU", "t": 284, "note": "Reader expectations let you transfer from the generating phase to the reader draft", "primary": false},
+    {"vid": "VrxufNaORhU", "t": 558, "note": "Writer's draft and reader draft are two separate documents; walk away once satisfied", "primary": true}
+  ]}
+]

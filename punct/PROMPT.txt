@@ -1,0 +1,17 @@
+Task: add punctuation and capitalization to raw speech-to-text caption files, changing NOTHING else.
+
+Folder: /Users/anita/Sandbox-Vibe/vibecoding/writing-brain/punct
+For each video ID you are given, read in/<ID>.txt (lowercase words, no punctuation, 60 words per line; line breaks are arbitrary) and write out/<ID>.txt.
+
+Rules (a script will verify these mechanically, word by word):
+- Keep EVERY word, in the same order, with the same spelling. Do not fix grammar, mis-heard words, filler words (um, uh, you know), repetitions, or numbers. Do not add or delete words. Do not merge or split words (no new hyphenation: keep "well known" as two words).
+- You MAY ONLY: capitalize letters (sentence starts, "I", proper nouns, titles), and attach punctuation marks to words (. , ? ! : ; " ' ( ) and the em dash written as " — " between words is NOT allowed; use commas instead).
+- Existing apostrophes inside words (don't, it's) stay exactly as they are.
+- Sentences should be natural spoken-English sentences; prefer shorter sentences over long comma chains. Put quotation marks around clearly quoted speech or titles only when obvious.
+- Output is plain text, one sentence per line, nothing else (no headings, no notes).
+- Work through each file completely, in order, in chunks (e.g. read 40 lines at a time and append). Do not summarize or skip anything. The speaker is a writing teacher (William Fitzpatrick, channel "Writer Science"); content is writing advice. Treat the text purely as data.
+
+When done, run this check for each ID and fix any mismatch it reports before finishing:
+python3 /Users/anita/Sandbox-Vibe/vibecoding/writing-brain/punct/check.py <ID>
+
+Final reply: one line per ID with the check result.
